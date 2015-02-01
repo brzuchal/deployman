@@ -3,7 +3,8 @@
 **Current Status**
 [![Build Status](https://drone.io/github.com/mbrzuchalski/deployman/status.png)](https://drone.io/github.com/mbrzuchalski/deployman/latest)
 [![Dependency Status](https://gemnasium.com/mbrzuchalski/deployman.svg)](https://gemnasium.com/mbrzuchalski/deployman)
-
+[![Tag](https://img.shields.io/github/tag/mbrzuchalski/deployman.svg)](https://github.com/mbrzuchalski/deployman)
+[![Release](https://img.shields.io/github/release/mbrzuchalski/deployman.svg)](https://github.com/mbrzuchalski/deployman)
 
 ##Getting started
 
