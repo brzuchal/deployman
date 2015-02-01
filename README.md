@@ -1,7 +1,9 @@
 ##Deployman - PHP deployment tool
 
-**Current Build Status**
+**Current Status**
 [![Build Status](https://drone.io/github.com/mbrzuchalski/deployman/status.png)](https://drone.io/github.com/mbrzuchalski/deployman/latest)
+[![Dependency Status](https://gemnasium.com/mbrzuchalski/deployman.svg)](https://gemnasium.com/mbrzuchalski/deployman)
+
 
 ##Getting started
 
